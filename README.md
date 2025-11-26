@@ -5,7 +5,7 @@ A data-driven exploration of flight delays using Python, statistical methods, an
 This project analyzes a large-scale dataset of 218,718 airline flight records to identify the factors contributing to arrival delays in the U.S. airline system. The dataset includes 21 different features, covering flight counts, delay causes, weather conditions, carrier performance, and airport-level indicators.
 The objective of this analysis is to uncover meaningful patterns behind delay occurrences, compute delay metrics, and ultimately build a model that helps predict or explain airline arrival delays.
 
-## Motivation (Tailored for Data Analyst Roles)
+## Motivation
 Airline delays affect millions of passengers each year, leading to financial losses, operational inefficiencies, and customer dissatisfaction. For analysts, this dataset provides the perfect opportunity to apply foundational skills:
 Cleaning and transforming large datasets
 Identifying delay patterns through descriptive statistics
