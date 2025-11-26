@@ -95,18 +95,26 @@ helped differentiate between short, frequent delays and infrequent but severe on
 ### Business Insights
 The results of this analysis provide strong value for aviation stakeholders:
 Airlines can prioritize improvements in turnaround processes to reduce late aircraft delays.
+
 Airports can use delay cause distribution to allocate staffing and resources during peak disruption hours.
+
 Logistic teams can use classification outputs to improve scheduling and reduce passenger inconvenience.
+
 Predictive insights support proactive planning, improving overall operational reliability.
 ### Real-World Impact
 While this is not a healthcare project, the analysis still supports traveler well-being:
 Reducing delays improves customer satisfaction and reduces stress.
+
 Better delay forecasting helps passengers plan connections more confidently.
+
 Insights enable airlines to lower costs and carbon footprint by minimizing unnecessary idle time and re-routing.
 
 ## Conclusion
 This project demonstrates how statistical modeling and machine learning can uncover meaningful patterns in complex aviation datasets. By quantifying delay causes and constructing predictive models, the analysis provides actionable insights that support:
 Better scheduling
+
 Improved reliability
+
 Reduced cascading delays
+
 This aligns directly with real-world data analytics roles focused on operational efficiency, predictive modeling, and business intelligence.
